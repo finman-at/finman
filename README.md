@@ -1,0 +1,2 @@
+# finman
+FINMAN - Finanzmanager
