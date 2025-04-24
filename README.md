@@ -2,7 +2,7 @@
 
 [Finman](https://www.finman.at) ist die automatisierte Lösung zur Einnahmen-Ausgaben-Verwaltung für Selbständige und Einzelunternehmer:innen.
 
-👉 Mehr Infos findest du auf unserer Website: [https://finman.app](https://www.finman.at)
+👉 Mehr Infos findest du auf unserer Website: [https://www.finman.at](https://www.finman.at)
 
 ---
 
